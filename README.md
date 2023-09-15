@@ -21,3 +21,4 @@ practiceMarkdown
 # 未來的夢想
 - 中醫師
 - 生物相關領域
+- CSI相關領域
